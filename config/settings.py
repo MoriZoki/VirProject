@@ -29,6 +29,7 @@ INSTALLED_APPS = [
     # personal apps 
     'accounts.apps.AccountsConfig',
     'todo.apps.TodoConfig',
+    'api.apps.ApiConfig',
 
     # frameworks installed 
     'rest_framework',
